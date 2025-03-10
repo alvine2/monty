@@ -14,8 +14,7 @@
  * @prev: Points to the previous element of the stack (or queue)
  * @next: Points to the next element of the stack (or queue)
  *
- * Description: Doubly linked list node structure
- * for stack, queues, LIFO, FIFO
+ * De
  */
 typedef struct stack_s
 {
